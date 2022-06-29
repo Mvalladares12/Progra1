@@ -1,0 +1,4 @@
+C:\Users\Nathanael sal\Desktop\C#\Proyecto Base de Datos c#\Base SQL\PROYECTO_B_DAT\conexion\bin\Debug\conexion.dll
+C:\Users\Nathanael sal\Desktop\C#\Proyecto Base de Datos c#\Base SQL\PROYECTO_B_DAT\conexion\bin\Debug\conexion.pdb
+C:\Users\Nathanael sal\Desktop\C#\Proyecto Base de Datos c#\Base SQL\PROYECTO_B_DAT\conexion\obj\Debug\conexion.dll
+C:\Users\Nathanael sal\Desktop\C#\Proyecto Base de Datos c#\Base SQL\PROYECTO_B_DAT\conexion\obj\Debug\conexion.pdb

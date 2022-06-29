@@ -1,0 +1,46 @@
+C:\Users\Nathanael sal\Desktop\C#\Proyecto Base de Datos c#\Base SQL\PROYECTO_B_DAT\PROYECTO_B_DAT\bin\Debug\PROYECTO_B_DAT.exe.config
+C:\Users\Nathanael sal\Desktop\C#\Proyecto Base de Datos c#\Base SQL\PROYECTO_B_DAT\PROYECTO_B_DAT\bin\Debug\PROYECTO_B_DAT.exe
+C:\Users\Nathanael sal\Desktop\C#\Proyecto Base de Datos c#\Base SQL\PROYECTO_B_DAT\PROYECTO_B_DAT\bin\Debug\PROYECTO_B_DAT.pdb
+C:\Users\Nathanael sal\Desktop\C#\Proyecto Base de Datos c#\Base SQL\PROYECTO_B_DAT\PROYECTO_B_DAT\obj\Debug\PROYECTO_B_DAT.Form1.resources
+C:\Users\Nathanael sal\Desktop\C#\Proyecto Base de Datos c#\Base SQL\PROYECTO_B_DAT\PROYECTO_B_DAT\obj\Debug\PROYECTO_B_DAT.Properties.Resources.resources
+C:\Users\Nathanael sal\Desktop\C#\Proyecto Base de Datos c#\Base SQL\PROYECTO_B_DAT\PROYECTO_B_DAT\obj\Debug\PROYECTO_B_DAT.csproj.GenerateResource.Cache
+C:\Users\Nathanael sal\Desktop\C#\Proyecto Base de Datos c#\Base SQL\PROYECTO_B_DAT\PROYECTO_B_DAT\obj\Debug\PROYECTO_B_DAT.exe
+C:\Users\Nathanael sal\Desktop\C#\Proyecto Base de Datos c#\Base SQL\PROYECTO_B_DAT\PROYECTO_B_DAT\obj\Debug\PROYECTO_B_DAT.pdb
+C:\Users\Nathanael sal\Desktop\C#\Proyecto Base de Datos c#\Base SQL\PROYECTO_B_DAT\PROYECTO_B_DAT\bin\Debug\conexion.dll
+C:\Users\Nathanael sal\Desktop\C#\Proyecto Base de Datos c#\Base SQL\PROYECTO_B_DAT\PROYECTO_B_DAT\bin\Debug\conexion.pdb
+C:\Users\Nathanael sal\Desktop\C#\Proyecto Base de Datos c#\Base SQL\PROYECTO_B_DAT\PROYECTO_B_DAT\obj\Debug\PROYECTO_B_DAT.Menu_MDI.resources
+C:\Users\Nathanael sal\Desktop\C#\Proyecto Base de Datos c#\Base SQL\PROYECTO_B_DAT\PROYECTO_B_DAT\obj\Debug\PROYECTO_B_DAT.Consultas.resources
+C:\Users\Nathanael sal\Desktop\C#\Proyecto Base de Datos c#\Base SQL\PROYECTO_B_DAT\PROYECTO_B_DAT\obj\Debug\PROYECTO_B_DAT.ConsultasProductos.resources
+C:\Users\Nathanael sal\Desktop\C#\Proyecto Base de Datos c#\Base SQL\PROYECTO_B_DAT\PROYECTO_B_DAT\obj\Debug\PROYECTO_B_DAT.ConsultasProd_Tablas.resources
+C:\Users\Nathanael sal\Desktop\C#\Proyecto Base de Datos c#\Base SQL\PROYECTO_B_DAT\PROYECTO_B_DAT\obj\Debug\PROYECTO_B_DAT.ConsultarClientes.resources
+C:\Users\Nathanael sal\Desktop\C#\Proyecto Base de Datos c#\Base SQL\PROYECTO_B_DAT\PROYECTO_B_DAT\obj\Debug\PROYECTO_B_DAT.Consultar_ClientesTabla.resources
+C:\Users\Nathanael sal\Desktop\C#\Proyecto Base de Datos c#\Base SQL\PROYECTO_B_DAT\PROYECTO_B_DAT\obj\Debug\PROYECTO_B_DAT.Login_RH.resources
+C:\Users\Nathanael sal\Desktop\C#\Proyecto Base de Datos c#\Base SQL\PROYECTO_B_DAT\PROYECTO_B_DAT\obj\Debug\PROYECTO_B_DAT.Recursos_Humanos.resources
+C:\Users\Nathanael sal\Desktop\C#\Proyecto Base de Datos c#\Base SQL\PROYECTO_B_DAT\PROYECTO_B_DAT\obj\Debug\PROYECTO_B_DAT.Consultas_RH.resources
+C:\Users\Nathanael sal\Desktop\C#\Proyecto Base de Datos c#\Base SQL\PROYECTO_B_DAT\PROYECTO_B_DAT\obj\Debug\PROYECTO_B_DAT.ConsultUS_RH.resources
+C:\Users\Nathanael sal\Desktop\C#\Proyecto Base de Datos c#\Base SQL\PROYECTO_B_DAT\PROYECTO_B_DAT\obj\Debug\PROYECTO_B_DAT.Facturacion.resources
+C:\Users\Nathanael sal\Desktop\C#\Proyecto Base de Datos c#\Base SQL\PROYECTO_B_DAT\PROYECTO_B_DAT\obj\Debug\PROYECTO_B_DAT.Consulta_Ventas.resources
+C:\Users\ee034\Downloads\Bd_02\Bd_02\PROYECTO_B_DAT\PROYECTO_B_DAT\bin\Debug\PROYECTO_B_DAT.exe.config
+C:\Users\ee034\Downloads\Bd_02\Bd_02\PROYECTO_B_DAT\PROYECTO_B_DAT\bin\Debug\PROYECTO_B_DAT.exe
+C:\Users\ee034\Downloads\Bd_02\Bd_02\PROYECTO_B_DAT\PROYECTO_B_DAT\bin\Debug\PROYECTO_B_DAT.pdb
+C:\Users\ee034\Downloads\Bd_02\Bd_02\PROYECTO_B_DAT\PROYECTO_B_DAT\bin\Debug\conexion.dll
+C:\Users\ee034\Downloads\Bd_02\Bd_02\PROYECTO_B_DAT\PROYECTO_B_DAT\bin\Debug\conexion.pdb
+C:\Users\ee034\Downloads\Bd_02\Bd_02\PROYECTO_B_DAT\PROYECTO_B_DAT\obj\Debug\PROYECTO_B_DAT.csprojAssemblyReference.cache
+C:\Users\ee034\Downloads\Bd_02\Bd_02\PROYECTO_B_DAT\PROYECTO_B_DAT\obj\Debug\PROYECTO_B_DAT.ConsultarClientes.resources
+C:\Users\ee034\Downloads\Bd_02\Bd_02\PROYECTO_B_DAT\PROYECTO_B_DAT\obj\Debug\PROYECTO_B_DAT.Consultar_ClientesTabla.resources
+C:\Users\ee034\Downloads\Bd_02\Bd_02\PROYECTO_B_DAT\PROYECTO_B_DAT\obj\Debug\PROYECTO_B_DAT.Consultas.resources
+C:\Users\ee034\Downloads\Bd_02\Bd_02\PROYECTO_B_DAT\PROYECTO_B_DAT\obj\Debug\PROYECTO_B_DAT.ConsultasProductos.resources
+C:\Users\ee034\Downloads\Bd_02\Bd_02\PROYECTO_B_DAT\PROYECTO_B_DAT\obj\Debug\PROYECTO_B_DAT.Consulta_Ventas.resources
+C:\Users\ee034\Downloads\Bd_02\Bd_02\PROYECTO_B_DAT\PROYECTO_B_DAT\obj\Debug\PROYECTO_B_DAT.ConsultUS_RH.resources
+C:\Users\ee034\Downloads\Bd_02\Bd_02\PROYECTO_B_DAT\PROYECTO_B_DAT\obj\Debug\PROYECTO_B_DAT.Facturacion.resources
+C:\Users\ee034\Downloads\Bd_02\Bd_02\PROYECTO_B_DAT\PROYECTO_B_DAT\obj\Debug\PROYECTO_B_DAT.Form1.resources
+C:\Users\ee034\Downloads\Bd_02\Bd_02\PROYECTO_B_DAT\PROYECTO_B_DAT\obj\Debug\PROYECTO_B_DAT.Login_RH.resources
+C:\Users\ee034\Downloads\Bd_02\Bd_02\PROYECTO_B_DAT\PROYECTO_B_DAT\obj\Debug\PROYECTO_B_DAT.Menu_MDI.resources
+C:\Users\ee034\Downloads\Bd_02\Bd_02\PROYECTO_B_DAT\PROYECTO_B_DAT\obj\Debug\PROYECTO_B_DAT.Properties.Resources.resources
+C:\Users\ee034\Downloads\Bd_02\Bd_02\PROYECTO_B_DAT\PROYECTO_B_DAT\obj\Debug\PROYECTO_B_DAT.Recursos_Humanos.resources
+C:\Users\ee034\Downloads\Bd_02\Bd_02\PROYECTO_B_DAT\PROYECTO_B_DAT\obj\Debug\PROYECTO_B_DAT.csproj.GenerateResource.cache
+C:\Users\ee034\Downloads\Bd_02\Bd_02\PROYECTO_B_DAT\PROYECTO_B_DAT\obj\Debug\PROYECTO_B_DAT.csproj.CoreCompileInputs.cache
+C:\Users\ee034\Downloads\Bd_02\Bd_02\PROYECTO_B_DAT\PROYECTO_B_DAT\obj\Debug\PROYECTO_B_DAT.csproj.CopyComplete
+C:\Users\ee034\Downloads\Bd_02\Bd_02\PROYECTO_B_DAT\PROYECTO_B_DAT\obj\Debug\PROYECTO_B_DAT.exe
+C:\Users\ee034\Downloads\Bd_02\Bd_02\PROYECTO_B_DAT\PROYECTO_B_DAT\obj\Debug\PROYECTO_B_DAT.pdb
+C:\Users\ee034\Downloads\Bd_02\Bd_02\PROYECTO_B_DAT\PROYECTO_B_DAT\obj\Debug\PROYECTO_B_DAT.ConsultasProd_Tablas.resources
